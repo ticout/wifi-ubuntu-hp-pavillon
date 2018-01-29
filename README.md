@@ -1,7 +1,7 @@
 # Install wifi drivers [10ec:d723] ubuntu 
 
 > HP Pavillon 15-cc507nf 15.5": 
-> Driver missed for network cotroller: Network controller [0280]: Realtek Semiconductor Co., Ltd. Device [10ec:d723]
+> Driver missed for network controller: Network controller [0280]: Realtek Semiconductor Co., Ltd. Device [10ec:d723]
 
 > 
 
